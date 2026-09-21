@@ -83,7 +83,7 @@ consumo-agua/
 - **`app.py`**: programa de classificação de consumo de água.
 - **`README.md`**: documentação e instruções de execução.
 
-## 👩‍💻 Autora
+## Autora
 
 **Letícia Polatto**  
 Atividade acadêmica — ETEC.
