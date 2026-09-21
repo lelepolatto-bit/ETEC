@@ -30,13 +30,13 @@ custo mensal = consumo mensal × tarifa por kWh
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/lelepolatto-bit/consumo-energia.git
+   git clone https://github.com/lelepolatto-bit/ETEC.git
    ```
 
 3. Entre na pasta do projeto:
 
    ```bash
-   cd consumo-energia
+   cd ETEC/consumo-energia
    ```
 
 4. Execute o programa:
@@ -72,3 +72,7 @@ consumo-energia/
 
 Projeto desenvolvido para a **Agenda 05 — Desenvolvimento de Sistemas I**, com o objetivo de praticar algoritmos, programação em Python, Git e GitHub.
 
+## Autora
+
+**Letícia Polatto**<br>
+Desenvolvimento de Sistemas — Agenda 5

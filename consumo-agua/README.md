@@ -85,5 +85,5 @@ consumo-agua/
 
 ## Autora
 
-**Letícia Polatto**  
-Atividade acadêmica — ETEC.
+**Letícia Polatto**<br>
+Desenvolvimento de Sistemas — Agenda 7

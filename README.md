@@ -29,8 +29,9 @@ cd consumo-agua
 python3 app.py
 ```
 
-Cada subpasta possui seu próprio README. Os projetos copiados mantêm suas instruções e links para os repositórios separados, com os READMEs ajustados para remover emojis.
+Cada subpasta possui seu próprio README com as informações da atividade.
 
 ## Autora
 
-**Letícia Polatto** — Desenvolvimento de Sistemas, ETEC.
+**Letícia Polatto**<br>
+Desenvolvimento de Sistemas — Agendas 5, 6 e 7
