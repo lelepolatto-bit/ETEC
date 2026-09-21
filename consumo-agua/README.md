@@ -1,4 +1,4 @@
-# 💧 Sistema de Classificação de Consumo de Água
+# Sistema de Classificação de Consumo de Água
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-black?logo=github&logoColor=white)
@@ -7,11 +7,11 @@
 
 Atividade acadêmica da ETEC desenvolvida em **Python** para classificar o consumo mensal de água conforme o tipo de imóvel e o volume informado, em metros cúbicos (m³).
 
-## 🎯 Objetivo
+## Objetivo
 
 Praticar estruturas de decisão em Python e incentivar a reflexão sobre o uso consciente da água, apresentando uma mensagem de acordo com as regras da atividade.
 
-## ⚙️ Funcionamento
+## Funcionamento
 
 1. O programa solicita o tipo de imóvel: `comercial`, `casa` ou `apartamento`.
 2. Converte o texto informado para letras minúsculas com `.lower()`.
@@ -41,7 +41,7 @@ As classificações seguem as regras didáticas do programa. O sistema não calc
 - **Operador `|` no `match`**: permite alternativas, como `"apartamento" | "casa"`.
 - **`case _`**: trata os casos que não correspondem às regras anteriores.
 
-## 💻 Tecnologias
+## Tecnologias
 
 | Tecnologia | Utilização |
 | --- | --- |
@@ -52,7 +52,7 @@ As classificações seguem as regras didáticas do programa. O sistema não calc
 
 O programa utiliza apenas recursos nativos do Python e não exige instalação de bibliotecas externas.
 
-## ▶️ Como executar
+## Como executar
 
 Com **Python 3.10 ou superior** instalado, baixe ou clone este repositório e abra o terminal na raiz dele. Execute:
 
@@ -73,7 +73,7 @@ Qual o seu consumo mensal, em m³, de água? 8
 Consumo econômico - excelente controle de água!
 ```
 
-## 📁 Estrutura
+## Estrutura
 
 ```text
 consumo-agua/
