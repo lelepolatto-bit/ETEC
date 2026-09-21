@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-black?logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Sustentabilidade](https://img.shields.io/badge/Sustentabilidade-Uso%20consciente%20da%20%C3%A1gua-0891b2)
 
 Atividade acadêmica da ETEC desenvolvida em **Python** para classificar o consumo mensal de água conforme o tipo de imóvel e o volume informado, em metros cúbicos (m³).
