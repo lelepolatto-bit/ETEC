@@ -5,12 +5,11 @@
 
 Repositório de atividades acadêmicas de **Letícia Polatto**, organizadas em subpastas por projeto.
 
-##  Atividades
+## Atividades
 
 | Pasta | Atividade | Arquivo principal |
 | --- | --- | --- |
 | [consumo-energia](consumo-energia/) | Agenda 5 — Calculadora de consumo mensal de energia elétrica. | `app.py` |
-| [Sistema-de-desconto](Sistema-de-desconto/) | Agenda 6 — Sistema de desconto progressivo, com imagens dos testes. | `sistema_desconto.py` |
 | [atividade-desconto-progressivo](atividade-desconto-progressivo/) | Agenda 6 — Documentação inicial do repositório original. | Apenas `README.md` no original. |
 | [consumo-agua](consumo-agua/) | Agenda 7 — Sistema de Classificação de Consumo de Água. | `app.py` |
 
@@ -30,7 +29,7 @@ cd consumo-agua
 python3 app.py
 ```
 
-Cada subpasta possui seu próprio README. Os projetos copiados mantêm os arquivos originais, incluindo instruções e links para seus repositórios separados.
+Cada subpasta possui seu próprio README. Os projetos copiados mantêm suas instruções e links para os repositórios separados, com os READMEs ajustados para remover emojis.
 
 ## Autora
 
